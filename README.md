@@ -1,7 +1,7 @@
 ## Olá 👋
 
-- 🔭 Atualmente estudo na Universidade Federal do Rio de Janeiro (UFRJ)
-- 🌱 Realizo IC no INMETRO
+- 🔭 Atualmente estudo na Universidade Federal do Rio de Janeiro (UFRJ) no curso Matemática Aplicada
+- 🌱 Realizo IT no INMETRO
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
