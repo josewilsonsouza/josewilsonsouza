@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e con
 - 🌱 Atualmente aprimorando conhecimentos em SQL/PYTON/OUTRAS.
 - 🤝 Aberto a colaborações e novos desafios.
 
-## 🛠️ Tecnologias & Ferramentas
+---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e con
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-wilson-b7019515b/)
-- **E-mail:** [josewilson@matematica.ufrj.br](mailto:josewilson@matematica.ufrj.br)
+- 📧[josewilson@matematica.ufrj.br](mailto:josewilson@matematica.ufrj.br)
 
 ---
 
