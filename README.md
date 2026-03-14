@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e con
 - 📗 Formado em Ciências Contábeis pela [UEMA](https://www.uema.br/).
 - 🎈 Realizo Iniciação Tecnológica no INMETRO
 - 🧩 Meus projetos atuais estão voltados para Aprendizado de Máquima (Centralizado e Distribuido), EDP/EDO, Análise complexa, Operadores auto-adjuntos.
-- 🌐 Meu site pessoal: [José Wilson](https://josewilsonsouza.github.io/). Lá tem artigos e anotações interessantes.
+- 🌐 Meu site pessoal: [José Wilson](https://josewilsonsouza.github.io/).
 - 🌱 Atualmente aprimorando conhecimentos em SQL/PYTON/OUTRAS.
 - 🤝 Aberto a colaborações e novos desafios.
 
@@ -21,11 +21,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e con
 ![Flower](https://img.shields.io/badge/Flower-F5655B?logo=flower&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-wilson-b7019515b/)
-- 📧[josewilson@matematica.ufrj.br](mailto:josewilson@matematica.ufrj.br)
 
 ---
 
