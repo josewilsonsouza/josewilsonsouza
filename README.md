@@ -1,5 +1,3 @@
-# Olá, eu sou José Wilson! 👋
-
 Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e contribuições em desenvolvimento de projetos em Data Science e Matemática Aplicada.
 
 ## 🚀 Sobre mim
