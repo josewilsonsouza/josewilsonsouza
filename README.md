@@ -5,9 +5,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui se encontra projetos, experimentos e con
 - 📚 Estudante de Matemática Aplicada na [UFRJ](https://ufrj.br/).
 - 📗 Formado em Ciências Contábeis pela [UEMA](https://www.uema.br/).
 - 🎈 Realizo Iniciação Tecnológica no INMETRO
-- 🧩 Meus projetos atuais estão voltados para Aprendizado de Máquima (Centralizado e Distribuido), EDP/EDO, Análise complexa, Operadores auto-adjuntos.
+- 🧩 Meus projetos atuais estão voltados para Aprendizado de Máquima (Centralizado e Distribuido), EDP/EDO, Análise complexa e Pesquisa Operacional.
 - 🌐 Meu site pessoal: [José Wilson](https://josewilsonsouza.github.io/).
-- 🌱 Atualmente aprimorando conhecimentos em SQL/PYTON/OUTRAS.
 - 🤝 Aberto a colaborações e novos desafios.
 
 ---
