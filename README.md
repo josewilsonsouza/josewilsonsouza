@@ -1,5 +1,4 @@
-# Hi!🦎
-## Sobre
+# Sobre 🦎
 - Matematica Aplicada (em andamento)
 - Ciências Contábeis
 - Bolsista PIBIT/CNPQ (Iniciação Tecnológica)
