@@ -1,31 +1,32 @@
-# Sobre 🦎
-- Matematica Aplicada (em andamento)
-- Ciências Contábeis
-- Bolsista PIBIT/CNPQ (Iniciação Tecnológica)
-- Bolsista FACC (Fundação de Apoio ao Desenvolvimento da Computação Científica)
+# Sobre🦎
+> [!TIP]
+> - Matematica Aplicada
+> - Ciências Contábeis
+> - Iniciação Tecnológica
+> - Estudos e Projetos
 
 ## Projetos
 
 <table>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3>Fleven</h3>
+    <td width="33%" valign="top">
+      <h3>Fleven❄️</h3>
       <p><em>Federated Learning for Vehicular Enviroments</em></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>AMseg</h3>
+    <td width="33%" valign="top">
+      <h3>AMseg🦊</h3>
       <p><em>Acompanhamento Mensal do Setor de Seguros</em></p>
     </td>
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3>SIGMA </h3>
+    <td width="33%" valign="top">
+      <h3>SIGMA⚡</h3>
       <p><em>Score-Informed Geometric Momentum Adaptation</em></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>CurvantML</h3>
+    <td width="33%" valign="top">
+      <h3>CurvantML🪢</h3>
       <p><em>Predicting risky driving behavior on curves</em></p>
     </td>
   </tr>
