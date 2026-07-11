@@ -4,9 +4,6 @@
 > - Ciências Contábeis
 > - Iniciação Tecnológica
 > - Estudos e Projetos
-
-## Projetos
-
 <table>
   
   <tr>
@@ -32,7 +29,6 @@
   </tr>
 </table>
 
-## Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
