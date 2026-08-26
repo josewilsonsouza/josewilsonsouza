@@ -41,4 +41,4 @@
 ---
 
 > [!IMPORTANT]
-> $\texttt{"Ninguém pode fugir da sua própria história"}$ [🦎](https://pt.wikipedia.org/wiki/Rango)
+> "Ninguém pode fugir da sua própria história" [🦎](https://pt.wikipedia.org/wiki/Rango)
