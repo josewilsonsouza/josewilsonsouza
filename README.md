@@ -11,6 +11,10 @@
       <h3>Fleven❄️</h3>
       <p><em>Federated Learning for Vehicular Enviroments</em></p>
     </td>
+    <td width="33%" valign="top">
+      <h3>AIDA🚗</h3>
+      <p><em>Agente Inteligente de Diagnóstico Automotivo com Registro Confiável em Blockchain</em></p>
+    </td>
   </tr>
   
   <tr>
