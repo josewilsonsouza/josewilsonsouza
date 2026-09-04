@@ -11,10 +11,6 @@
       <h3>Fleven❄️</h3>
       <p><em>Federated Learning for Vehicular Enviroments</em></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>AMseg🦊</h3>
-      <p><em>Acompanhamento Mensal do Setor de Seguros</em></p>
-    </td>
   </tr>
   
   <tr>
