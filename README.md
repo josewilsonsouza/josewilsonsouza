@@ -1,9 +1,4 @@
 # Sobre🦎
-> [!TIP]
-> - Matematica Aplicada
-> - Ciências Contábeis
-> - Iniciação Tecnológica
-> - Estudos e Projetos
 <table>
   
   <tr>
